@@ -4153,6 +4153,10 @@
 				display: inline-block;
 				vertical-align: middle;
 				z-index: 1;
+				
+/* 				 adding personally for mobile phone */
+				line-height: initial;
+                line-height: inherit;
 			}
 
 				.banner > article .inner > :last-child {
