@@ -4006,6 +4006,7 @@
 		color: #e2d1df;
 		padding: 8em 0;
 		position: relative;
+		line-height:initial;
 	}
 
 		.banner input, .banner select, .banner textarea {
@@ -4159,8 +4160,8 @@
 				
 /* 				 adding personally for mobile phone */
 				margin:auto;
-				line-height: initial;
-                line-height: inherit;
+				line-height: inherit;
+               
 			}
 
 				.banner > article .inner > :last-child {
