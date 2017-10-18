@@ -3731,9 +3731,9 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			z-index:1;
 			
-/* 			added by me */
+			
+
 		}
 
 			#header > .logo a {
@@ -4006,7 +4006,7 @@
 		color: #e2d1df;
 		padding: 8em 0;
 		position: relative;
-		line-height:initial;
+		
 	}
 
 		.banner input, .banner select, .banner textarea {
@@ -4158,9 +4158,7 @@
 				vertical-align: middle;
 				z-index: 1;
 				
-/* 				 adding personally for mobile phone */
-				margin:auto;
-				line-height: inherit;
+/* 				
                
 			}
 
