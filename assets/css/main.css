@@ -4253,9 +4253,11 @@
 		@media screen and (max-width: 736px) {
 
 			.banner > article .inner {
+				font-size: 8px;
 				width: 90%;
+				
 			//added for crousel in phone
-				font-size: 10px;
+				
 			}
 
 			.banner > article p {
