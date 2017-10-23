@@ -4254,6 +4254,8 @@
 
 			.banner > article .inner {
 				width: 90%;
+			//added for crousel in phone
+				font-size: 10px;
 			}
 
 			.banner > article p {
